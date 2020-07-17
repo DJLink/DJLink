@@ -8,4 +8,4 @@ You can reach me at: [twitter.com/DJ_Link](https://www.twitter.com/DJ_Link "twit
 Here are a few things that I worked on:
 
 
-[![](qod.png?raw=true =420x)](https://www.questofdungeons.com) [![](vizati.jpg?raw=true =420x)](https://github.com/DJLink/Vizati)
+[![](qod.png?raw=true)](https://www.questofdungeons.com) [![](vizati.png?raw=true)](https://github.com/DJLink/Vizati)
